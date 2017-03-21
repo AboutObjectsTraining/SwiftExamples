@@ -11,6 +11,7 @@
 		B4C4EAD61E80425F00DFD5E1 /* Garment.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4C4EAD31E80425F00DFD5E1 /* Garment.swift */; };
 		B4C4EAD71E80425F00DFD5E1 /* EnumsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4C4EAD41E80425F00DFD5E1 /* EnumsTests.swift */; };
 		B4C4EAD91E80426D00DFD5E1 /* TupleTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4C4EAD81E80426D00DFD5E1 /* TupleTests.swift */; };
+		B4C4EADB1E81530300DFD5E1 /* GenericsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4C4EADA1E81530300DFD5E1 /* GenericsTests.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		B4C4EAD31E80425F00DFD5E1 /* Garment.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Garment.swift; sourceTree = "<group>"; };
 		B4C4EAD41E80425F00DFD5E1 /* EnumsTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EnumsTests.swift; sourceTree = "<group>"; };
 		B4C4EAD81E80426D00DFD5E1 /* TupleTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TupleTests.swift; sourceTree = "<group>"; };
+		B4C4EADA1E81530300DFD5E1 /* GenericsTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GenericsTests.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,6 +77,7 @@
 				B4C4EAD21E80425F00DFD5E1 /* Dog.swift */,
 				B4C4EAD31E80425F00DFD5E1 /* Garment.swift */,
 				B4C4EAD41E80425F00DFD5E1 /* EnumsTests.swift */,
+				B4C4EADA1E81530300DFD5E1 /* GenericsTests.swift */,
 				B4C4EACE1E8041F400DFD5E1 /* Info.plist */,
 			);
 			path = EnumTests;
@@ -187,6 +190,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B4C4EAD61E80425F00DFD5E1 /* Garment.swift in Sources */,
+				B4C4EADB1E81530300DFD5E1 /* GenericsTests.swift in Sources */,
 				B4C4EAD51E80425F00DFD5E1 /* Dog.swift in Sources */,
 				B4C4EAD71E80425F00DFD5E1 /* EnumsTests.swift in Sources */,
 			);
