@@ -2,11 +2,8 @@
 // Copyright (C) 2017 About Objects, Inc. All Rights Reserved.
 // See LICENSE.txt for this example's licensing information.
 //
-import Foundation
 
-//enum Size: CustomStringConvertible {
-//    case small, medium
-//}
+import Foundation
 
 enum Garment {
     case tie
@@ -52,13 +49,3 @@ func show(item: Garment)
     }
 }
 
-//
-//struct Point { var x: Int, y: Int }
-//struct Size { var width: Int, y: Int }
-//struct Rect { var origin: Point, size: Size }
-//
-//enum Geometry {
-//    case Point(x: Int, y: Int)
-//    case Size(width: Int, height: Int)
-//    case Rect(origin: Point, size: Size)
-//}
